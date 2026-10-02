@@ -1,0 +1,11 @@
+/Users/anthony/Desktop/Ejemplo/Clases/bin/Debug/net10.0/Clases.deps.json
+/Users/anthony/Desktop/Ejemplo/Clases/bin/Debug/net10.0/Clases.dll
+/Users/anthony/Desktop/Ejemplo/Clases/bin/Debug/net10.0/Clases.pdb
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.AssemblyInfoInputs.cache
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.AssemblyInfo.cs
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.csproj.CoreCompileInputs.cache
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.dll
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/refint/Clases.dll
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/Clases.pdb
+/Users/anthony/Desktop/Ejemplo/Clases/obj/Debug/net10.0/ref/Clases.dll
